@@ -1,0 +1,672 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"requete_concession"
+			],
+			[
+				"grap",
+				"graph_display"
+			],
+			[
+				"req",
+				"requete_graph"
+			],
+			[
+				"arra",
+				"array_size_hu"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"COunt",
+				"COUNTRY"
+			],
+			[
+				"return",
+				"return_line"
+			],
+			[
+				"size",
+				"size_ttc2"
+			],
+			[
+				"ce",
+				"cell_rate_pdf"
+			],
+			[
+				"CO",
+				"COTE_PRO"
+			],
+			[
+				"q",
+				"query_1_b"
+			],
+			[
+				"es",
+				"EsCurrencyFormat"
+			],
+			[
+				"curren",
+				"currency"
+			],
+			[
+				"cou",
+				"COUNTRY"
+			],
+			[
+				"lign",
+				"LIGNE_ARR"
+			],
+			[
+				"LI",
+				"LIGNE_ARR"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"forma",
+				"format_tab"
+			],
+			[
+				"titr",
+				"titre_numeric"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"tit",
+				"titre_numeric"
+			],
+			[
+				"que",
+				"query_depart"
+			],
+			[
+				"nex",
+				"next_record"
+			],
+			[
+				"AU",
+				"AUTOUK"
+			],
+			[
+				"depa",
+				"departement_name"
+			],
+			[
+				"selec",
+				"select_concession_id"
+			],
+			[
+				"reque",
+				"requete_pdv"
+			],
+			[
+				"CON",
+				"CONCESSION_ID"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"nb",
+				"nb_ecart"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"km",
+				"km"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"g",
+				"g_array_user"
+			],
+			[
+				"Counr",
+				"COUNTRY"
+			],
+			[
+				"L",
+				"LANG"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"str",
+				"str_rates_"
+			],
+			[
+				"gra",
+				"graph_id"
+			],
+			[
+				"palier",
+				"palier_graph"
+			],
+			[
+				"na",
+				"name_table"
+			],
+			[
+				"SELE",
+				"select_xls"
+			],
+			[
+				"stock",
+				"stock_table_excel"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"ENT",
+				"ENT_COMPAT"
+			],
+			[
+				"htm",
+				"html_entity_decode"
+			],
+			[
+				"in",
+				"incl1\tinclude_once …"
+			],
+			[
+				"HTM",
+				"html_entity_decode"
+			],
+			[
+				"UTF",
+				"utf8_encode"
+			],
+			[
+				"no",
+				"NOM"
+			],
+			[
+				"utf",
+				"UTF-8"
+			],
+			[
+				"cl",
+				"classeur"
+			],
+			[
+				"va",
+				"var_all_export_excel"
+			],
+			[
+				"inse",
+				"insertQuery"
+			],
+			[
+				"my",
+				"myCaptionEncoded"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"l",
+				"lang"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"str_lo",
+				"str_logo_market"
+			],
+			[
+				"str_log",
+				"str_logo_market_pays_pt"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Li",
+				"LIMIT"
+			],
+			[
+				"USER",
+				"USER_ID"
+			],
+			[
+				"ABO",
+				"ABONNEMENT_USER"
+			],
+			[
+				"PRIN",
+				"print_r"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"A",
+				"AUTODE"
+			],
+			[
+				"AUTO",
+				"AUTOBIZ"
+			],
+			[
+				"db",
+				"DB"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"US",
+				"USER_ID"
+			],
+			[
+				"PAS",
+				"PASSWORD_CLEAR"
+			],
+			[
+				"user",
+				"USER_ID"
+			],
+			[
+				"USE",
+				"USERNAME"
+			],
+			[
+				"getUse",
+				"getUserIdByUserName"
+			],
+			[
+				"getUs",
+				"getUsername"
+			],
+			[
+				"R",
+				"Repository"
+			],
+			[
+				"USEr",
+				"USERNAME"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title></title>\n</head>\n<body>\n\ndiv>ul>li*5\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 90,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/tmp/fz3temp-1/b2c_coteauto_cms_seo_controller.php",
+		"/tmp/fz3temp-1/b2c_annonces_index_region.php",
+		"/tmp/fz3temp-1/b2c_coteauto_comment_ca_marche_controller.php",
+		"/home/databiz218/Bureau/alias",
+		"/tmp/fz3temp-1/b2c_coteauto_services_controller.php",
+		"/tmp/fz3temp-1/b2c_cote_auto_derniers_avis_marque.tpl",
+		"/home/databiz218/Bureau/queries.sql",
+		"/tmp/fz3temp-1/b2c_rpeug_form_select_controller.php",
+		"/tmp/fz3temp-1/b2c_functions.php",
+		"/tmp/fz3temp-1/b2c_coteauto_auto_ideale_controller.php",
+		"/tmp/fz3temp-1/b2c_coteauto_controller.php",
+		"/tmp/fz3temp-1/b2c_cote.php",
+		"/tmp/fz3temp-1/b2c_coteauto_cote2_controller.php",
+		"/tmp/fz3temp-1/b2c_cote2_b.php",
+		"/tmp/fz3temp-1/b2c_cote2.php",
+		"/tmp/fz3temp-1/b2c_coteauto_vente2_controller.php",
+		"/tmp/fz3temp-1/GEOPAYS_cote_vo_accueil_dr.php",
+		"/tmp/fz3temp-1/GEOPAY_export_excel_annonces.php",
+		"/tmp/fz3temp-1/GEOPAYS_cote_vo_accueil_groupe.php",
+		"/tmp/fz3temp-1/GEOPAYS_cote_vo_accueil_pays.php",
+		"/tmp/fz3temp-1/GEOPAYS_export_excel.php",
+		"/tmp/fz3temp-1/AUTOPAYS_var_pays.php",
+		"/tmp/fz3temp-1/handle_specific_table_pre.php",
+		"/tmp/fz3temp-1/handle_specific_table_post.php",
+		"/tmp/fz3temp-1/save_entity_from_table.php",
+		"/tmp/fz3temp-1/full_field_info_308",
+		"/tmp/fz3temp-1/handle_answer.php",
+		"/tmp/fz3temp-1/prepare_field.php",
+		"/tmp/fz3temp-1/display_answer.php",
+		"/tmp/fz3temp-1/sql_field_list.php",
+		"/tmp/fz3temp-1/handle_answer.functions.php",
+		"/tmp/fz3temp-1/prepare_questionnaire.php",
+		"/tmp/fz3temp-1/get_user_var.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_signaler_anomalie.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_signaler_anomalie_mail.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_analyse_stock.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_infomediaires.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_monstock_v2.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_monstock_tableau_infomediaires.php",
+		"/home/databiz218/Bureau/docs/AUTOBIZ_cote_vo_infomediaires.php",
+		"/tmp/fz3temp-1/aut",
+		"/home/databiz218/Bureau/links",
+		"/tmp/fz3temp-1/MARKETEUR_cote_vo_result.php",
+		"/tmp/fz3temp-1/autobiz_cote_vo_pdf_monstock.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_analyse.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_calcul.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_monstock_generate_graph.pl",
+		"/home/databiz218/Bureau/docs/code",
+		"/tmp/fz3temp-1/AUTOPAYS_cote_vo_reprise_calcul.php",
+		"/home/databiz218/Bureau/COMPTE USER",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_reprise_calcul.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_reprise.php",
+		"/tmp/fz3temp-1/AUTOPAYS_cote_vo_reprise_pdf.php",
+		"/tmp/fz3temp-1/MARKETEUR_export_excel.php",
+		"/home/databiz218/Bureau/MARKETEUR_export_excel.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_reprise_etape4.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_etape1.php",
+		"/tmp/fz3temp-1/GEOPAY_export_excel_cron.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_accueil_groupe.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_export_excel_concessions_access.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_export_excel_annonces_access.php",
+		"/tmp/fz3temp-1/MARKETEUR_cote_vo_accueil.php",
+		"/home/databiz218/Bureau/GEOPAY_export_excel_annonces.php",
+		"/home/databiz218/Bureau/Eb2y3",
+		"/home/databiz218/Bureau/requete",
+		"/home/databiz218/Bureau/GEOPAYS_export_excel.php",
+		"/tmp/fz3temp-1/answer.php",
+		"/home/databiz218/Bureau/AUTOBIZ_cote_vo_export_excel_concessions_access.php",
+		"/home/databiz218/Bureau/GEOPAY_export_excel_cron.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_export_statistique_internet.php",
+		"/tmp/fz3temp-1/AUTOPAYS_cote_vo_export.php",
+		"/home/databiz218/Bureau/docs/dump.txt",
+		"/tmp/fz3temp-1/AUTOPAYS_cote_vo_voir_pa.php",
+		"/tmp/fz3temp-1/.alias",
+		"/home/databiz218/Bureau/encod",
+		"/tmp/fz3temp-1/SITE_cote_vo_result.php",
+		"/tmp/fz3temp-1/MARKETEUR_ajax_reponse.php",
+		"/home/databiz218/Bureau/display_answer.php",
+		"/tmp/fz3temp-1/SITE_ajax_reponse.php",
+		"/tmp/fz3temp-1/MARKETEUR_concession_manquantes.php",
+		"/home/databiz218/Bureau/docs2/AUTOBIZ_cote_vo_calcul.php",
+		"/home/databiz218/Bureau/untitled2.php",
+		"/home/databiz218/Bureau/untitled.php",
+		"/home/databiz218/Bureau/query1",
+		"/tmp/fz3temp-1/php_error.log",
+		"/home/databiz218/Bureau/docs2/select VO",
+		"/tmp/fz3temp-1/MARKETEUR_cote_vo_analyse.php",
+		"/home/databiz218/AUTOBIZ_cote_vo_calcul.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_annonces2.php",
+		"/home/databiz218/Bureau/query",
+		"/home/databiz218/Bureau/AUTOBIZ_cote_vo_calcul.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_export2.php",
+		"/home/databiz218/Bureau/git push origin T33955",
+		"/home/databiz218/Bureau/doc_bug",
+		"/home/databiz218/AUTOPAYS_cote_vo_reprise_pdf.php",
+		"/home/databiz218/Téléchargements/AUTOPAYS_cote_vo_reprise_pdf 2.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_analyse_stock_pdf.php",
+		"/home/databiz218/Bureau/modif.php",
+		"/home/databiz218/Téléchargements/AUTOPAYS_cote_vo_reprise_pdf.php",
+		"/home/databiz218/Bureau/AUTOPAYS_cote_vo_reprise_pdf.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_reprise_template_pdf.php",
+		"/tmp/fz3temp-1/AUTOPAYS_cote_vo_reprise_template_pdf.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_reprise_pdf.php",
+		"/home/databiz218/Bureau/AUTOBIZ_cote_vo_monstock_v2(test).php",
+		"/tmp/fz3temp-1/edit_page_section_layout.php",
+		"/tmp/fz3temp-1/edit_questionnaire.php",
+		"/home/databiz218/Bureau/req",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_accueil.php",
+		"/home/databiz218/Bureau/incluse.php",
+		"/tmp/fz3temp-1/AUTODE_cote_vo.php",
+		"/tmp/fz3temp-1/contact_user_create.php2",
+		"/home/databiz218/Bureau/docs/dumpes.txt",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo.css",
+		"/tmp/fz3temp-1/AUTOES_cote_vo_traduction.php",
+		"/home/databiz218/Bureau/code",
+		"/home/databiz218/Bureau/untitled1.php",
+		"/home/databiz218/Bureau/Marketeur_export_Excel.php",
+		"/home/databiz218/Bureau/test.html",
+		"/tmp/fz3temp-1/EXCEL_reader.php",
+		"/**",
+		"/tmp/fz3temp-1/class.writeexcel_workbook.inc.php",
+		"/tmp/fz3temp-1/htmlentities_encode_batch.php",
+		"/tmp/fz3temp-1/query",
+		"/tmp/fz3temp-1/autobiz_systemevo_mail_interface_groupe.php",
+		"/tmp/fz3temp-1/message_display_am_analyse.php",
+		"/tmp/fz3temp-1/AUTOBIZ_cote_vo_insert_line_invoice.php",
+		"/tmp/fz3temp-1/message_read_am_analyse.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
